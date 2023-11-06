@@ -9,7 +9,7 @@
 6. PayPay（キャッシュレス）
 7. マクドナルド
 8. otta（通学）
-9.  Eclear +（エレコム体組成計）
+9. Eclear +（エレコム体組成計）
 10. Chrome（Google）
 11. GoldPoint（ヨドバシカメラ）
 12. ヤマダ電機
