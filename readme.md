@@ -1,6 +1,5 @@
 # Setup_Smartphone
 ## Apps
-●SNS：
 1. X （旧Twitter）(SNS) 
 2. LINE（SNS）
 3. クルクル（QRコード）
