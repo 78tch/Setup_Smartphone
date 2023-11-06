@@ -1,5 +1,6 @@
 # Setup_Smartphone
 ## Apps
+●SNS：
 1. X （旧Twitter）(SNS) 
 2. LINE（SNS）
 3. クルクル（QRコード）
@@ -18,6 +19,13 @@
 16. ファミリーリンク（Google）
 17. iRobot（ルンバ）
 18. OfficialAccount(LINE公式アカウント)
+19. iReal Pro
+20. Elgana
+21. ゆうちょ通帳アプリ
+22. ゆうちょ認証アプリ
+23. 三菱UFJ銀行アプリ
+24. UAFX Control
+
 
 ## 旧
 
