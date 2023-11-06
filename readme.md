@@ -1,23 +1,23 @@
 # Setup_Smartphone
 ## Apps
-1. Twitter
-2. LINE
-3. クルクル
-4. KUNAI
-5. Mナビ
-6. PayPay
-7. Macdnald
-8. otta
-9. Eclear +
-10. Chrome
-11. GoldPoint
-12. YAMADA
-13. OnetimePW
-14. ろうきん
-15. Keep
-16. ファミリーリンク
-17. iRobot
-18. OfficialAccount
+1. X （旧Twitter）(SNS) 
+2. LINE（SNS）
+3. クルクル（QRコード）
+4. KUNAI（グループウェア）
+5. Mナビ(?)
+6. PayPay（キャッシュレス）
+7. マクドナルド
+8. otta（通学）
+9.  Eclear +（エレコム体組成計）
+10. Chrome（Google）
+11. GoldPoint（ヨドバシカメラ）
+12. ヤマダ電機
+13. ワンタイムパスワード（NTT DATA ろうきん口座管理）
+14. ろうきん（口座管理）
+15. Keep（Google）
+16. ファミリーリンク（Google）
+17. iRobot（ルンバ）
+18. OfficialAccount(LINE公式アカウント)
 
 ## 旧
 
